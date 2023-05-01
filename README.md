@@ -1,4 +1,4 @@
-<img src="https://www.gov.br/cbpf/pt-br/assuntos/noticias/titular-tem-artigo-em-periodico-de-prestigio/cbpf.png"  width="150" />
+<img src="https://www.gov.br/cbpf/pt-br/assuntos/noticias/titular-tem-artigo-em-periodico-de-prestigio/cbpf.png"  width="500" />
 
 
 
