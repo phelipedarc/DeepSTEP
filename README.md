@@ -1,4 +1,5 @@
-<img src="https://www.cbpf.br/~icrc2013/images/cbpf_logo.gif"  width="150" />
+<img src="https://www.gov.br/cbpf/pt-br/assuntos/noticias/titular-tem-artigo-em-periodico-de-prestigio/cbpf.png"  width="150" />
+
 
 
 # Deepstep: A Convolutional Neural Network for Transient Detection in STEP pipeline
