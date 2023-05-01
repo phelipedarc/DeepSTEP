@@ -1,3 +1,6 @@
+<img src="https://www.cbpf.br/~icrc2013/images/cbpf_logo.gif"  width="150" />
+
+
 # Deepstep: A Convolutional Neural Network for Transient Detection in STEP pipeline
 
 Transient astronomical objects, such as supernovae and kilonovae, exhibit variable luminosity, making their identification in the sky a crucial task for astronomers. Traditionally, this identification has been done through visual inspection by trained professionals, aided by image differentiation algorithms. However, this process can produce many false positives, with the most common artifact known as a "Bad Subtraction". To reduce the number of candidates requiring visual inspections and speed up the Transient Detection process on the STEP pipeline, we propose the use of Convolutional Neural Networks (CNNs) to classify the images as Transients or Artifacts (Non-Transients).
@@ -8,7 +11,8 @@ Our CNN, named Deepstep, reduced the amount of Artifacts by 96.9% while maintain
 
 ## Usage:
 This repository provides the code for implementing Deepstep in your pipeline. The repository includes the necessary scripts for preprocessing and testing the CNN.
-Note: This repository is **exclusively** for the STEP pipeline usage.
+Note: This repository is **exclusively** for the STEP pipeline usage, thus the trained model is on the CBPF machine:
+- STEP/Andre_phelipe/SPLUS/Model_Splus/NEWcorrectSplus.h5
 
 ## Credits:
 This project was developed by Phelipe Darc and CBPF/SPLUS/STEP contributors.
